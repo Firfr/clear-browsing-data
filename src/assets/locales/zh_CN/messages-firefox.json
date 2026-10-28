@@ -1,0 +1,26 @@
+{
+  "menuItemTitle_formData": {
+    "message": "表单数据",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_localStorage": {
+    "message": "本地存储",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_pluginData": {
+    "message": "插件数据",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_allDataTypes": {
+    "message": "所有数据类型",
+    "description": "Title of the menu item."
+  },
+
+  "optionSectionTitle_dataTypes": {
+    "message": "数据类型",
+    "description": "Title of the option section."
+  }
+}

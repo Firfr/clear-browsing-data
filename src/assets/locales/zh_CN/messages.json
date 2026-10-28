@@ -1,0 +1,551 @@
+{
+  "extensionName": {
+    "message": "清除浏览数据",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "直接从浏览器工具栏删除浏览数据。一键清除 Cookie、历史记录和缓存。",
+    "description": "Description of the extension."
+  },
+
+  "actionTitle_appcache": {
+    "message": "清除应用程序缓存",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_cache": {
+    "message": "清除缓存",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_cacheStorage": {
+    "message": "清除缓存存储",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_cookies": {
+    "message": "清除 Cookie",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_downloads": {
+    "message": "清除下载历史",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_fileSystems": {
+    "message": "清除网站文件系统",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_formData": {
+    "message": "清除表单数据",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_history": {
+    "message": "清除浏览历史",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_indexedDB": {
+    "message": "清除 IndexedDB 数据",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_localStorage": {
+    "message": "清除本地存储数据",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_pluginData": {
+    "message": "清除插件数据",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_serviceWorkers": {
+    "message": "清除 Service Worker",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_webSQL": {
+    "message": "清除 Web SQL 数据",
+    "description": "Title of the action."
+  },
+
+  "actionTitle_allDataTypes": {
+    "message": "清除所有浏览数据",
+    "description": "Title of the action."
+  },
+
+  "menuItemTitle_appcache": {
+    "message": "应用程序缓存",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_cache": {
+    "message": "缓存",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_cacheStorage": {
+    "message": "缓存存储",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_cookies": {
+    "message": "Cookie",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_downloads": {
+    "message": "下载",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_fileSystems": {
+    "message": "文件系统",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_formData": {
+    "message": "表单数据",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_history": {
+    "message": "历史记录",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_indexedDB": {
+    "message": "IndexedDB",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_localStorage": {
+    "message": "本地存储",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_pluginData": {
+    "message": "插件数据",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_serviceWorkers": {
+    "message": "Service Worker",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_webSQL": {
+    "message": "Web SQL",
+    "description": "Title of the menu item."
+  },
+
+  "menuItemTitle_allDataTypes": {
+    "message": "所有数据类型",
+    "description": "Title of the menu item."
+  },
+
+  "optionSectionTitle_dataTypes": {
+    "message": "数据类型",
+    "description": "Title of the option section."
+  },
+
+  "optionSectionDescription_dataTypes": {
+    "message": "切换数据类型并自定义它们的顺序（拖放）",
+    "description": "Description of the option section."
+  },
+
+  "optionTitle_appcache": {
+    "message": "应用程序缓存",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_cache": {
+    "message": "缓存的图片和文件",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_cacheStorage": {
+    "message": "缓存存储数据",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_cookies": {
+    "message": "Cookie",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_downloads": {
+    "message": "下载历史",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_fileSystems": {
+    "message": "网站文件系统",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_formData": {
+    "message": "自动填充表单数据",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_history": {
+    "message": "浏览历史",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_indexedDB": {
+    "message": "IndexedDB 数据",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_localStorage": {
+    "message": "本地存储数据",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_pluginData": {
+    "message": "插件数据",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_serviceWorkers": {
+    "message": "Service Worker",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_webSQL": {
+    "message": "Web SQL 数据",
+    "description": "Title of the option."
+  },
+
+  "optionSectionTitle_tabs": {
+    "message": "标签页",
+    "description": "Title of the option section."
+  },
+
+  "optionTitle_closeTabs": {
+    "message": "关闭标签页",
+    "description": "Title of the option."
+  },
+
+  "optionValue_closeTabs_all": {
+    "message": "所有标签页",
+    "description": "Value of the option."
+  },
+
+  "optionValue_closeTabs_active": {
+    "message": "当前标签页",
+    "description": "Value of the option."
+  },
+
+  "optionValue_closeTabs_allButActive": {
+    "message": "除当前标签页外的所有标签页",
+    "description": "Value of the option."
+  },
+
+  "optionValue_closeTabs_exit": {
+    "message": "所有标签页并退出",
+    "description": "Value of the option."
+  },
+
+  "optionValue_closeTabs_false": {
+    "message": "禁用",
+    "description": "Value of the option."
+  },
+
+  "optionTitle_closePinnedTabs": {
+    "message": "关闭固定标签页",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_reloadTabs": {
+    "message": "重新加载标签页",
+    "description": "Title of the option."
+  },
+
+  "optionValue_reloadTabs_all": {
+    "message": "所有标签页",
+    "description": "Value of the option."
+  },
+
+  "optionValue_reloadTabs_active": {
+    "message": "当前标签页",
+    "description": "Value of the option."
+  },
+
+  "optionValue_reloadTabs_allButActive": {
+    "message": "除当前标签页外的所有标签页",
+    "description": "Value of the option."
+  },
+
+  "optionValue_reloadTabs_false": {
+    "message": "禁用",
+    "description": "Value of the option."
+  },
+
+  "optionSectionTitle_misc": {
+    "message": "其他",
+    "description": "Title of the option section."
+  },
+
+  "optionTitle_clearAllDataTypes": {
+    "message": "清除所有数据类型",
+    "description": "Title of the option."
+  },
+
+  "optionValue_clearAllDataTypesAction_main": {
+    "message": "从浏览器工具栏",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearAllDataTypesAction_sub": {
+    "message": "从浏览器工具栏弹出菜单",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearAllDataTypesAction_false": {
+    "message": "禁用",
+    "description": "Value of the option."
+  },
+
+  "optionTitle_clearSince": {
+    "message": "时间范围",
+    "description": "Title of the option."
+  },
+
+  "optionValue_clearSince_1minute": {
+    "message": "最近 1 分钟",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearSince_3minutes": {
+    "message": "最近 3 分钟",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearSince_10minutes": {
+    "message": "最近 10 分钟",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearSince_30minutes": {
+    "message": "最近 30 分钟",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearSince_1hour": {
+    "message": "最近 1 小时",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearSince_3hours": {
+    "message": "最近 3 小时",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearSince_1day": {
+    "message": "最近 1 天",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearSince_1week": {
+    "message": "最近 1 周",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearSince_4weeks": {
+    "message": "最近 4 周",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearSince_90days": {
+    "message": "最近 90 天",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearSince_365days": {
+    "message": "最近 365 天",
+    "description": "Value of the option."
+  },
+
+  "optionValue_clearSince_epoch": {
+    "message": "所有时间",
+    "description": "Value of the option."
+  },
+
+  "optionTitle_notifyOnSuccess": {
+    "message": "成功时显示通知",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_showDataTypeIcons": {
+    "message": "显示数据类型图标",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_confirmDataRemoval": {
+    "message": "删除数据前询问",
+    "description": "Title of the option."
+  },
+
+  "optionTitle_appTheme": {
+    "message": "主题",
+    "description": "Title of the option."
+  },
+
+  "optionValue_appTheme_auto": {
+    "message": "跟随系统",
+    "description": "Value of the option."
+  },
+
+  "optionValue_appTheme_light": {
+    "message": "浅色",
+    "description": "Value of the option."
+  },
+
+  "optionValue_appTheme_dark": {
+    "message": "深色",
+    "description": "Value of the option."
+  },
+
+  "optionTitle_showContribPage": {
+    "message": "显示贡献页面",
+    "description": "Title of the option."
+  },
+
+  "optionSectionTitle_sponsors": {
+    "message": "赞助者",
+    "description": "Title of the options section."
+  },
+
+  "buttonLabel_contribute": {
+    "message": "贡献",
+    "description": "Label of the button."
+  },
+
+  "buttonLabel_cancel": {
+    "message": "取消",
+    "description": "Label of the button."
+  },
+
+  "buttonLabel_clearData": {
+    "message": "清除数据",
+    "description": "Label of the button."
+  },
+
+  "dialogTitle_clearConfirmation": {
+    "message": "清除浏览数据？",
+    "description": "Title of the dialog."
+  },
+
+  "dialogText_clearConfirmation": {
+    "message": "所选的浏览数据将被永久删除。",
+    "description": "Title of the dialog."
+  },
+
+  "checkboxLabel_noConfirmation": {
+    "message": "不再询问",
+    "description": "Label of the checkbox."
+  },
+
+  "pageTitle": {
+    "message": "$PAGETITLE$ - $EXTENSIONNAME$",
+    "description": "Title of the page.",
+    "placeholders": {
+      "pageTitle": {
+        "content": "$1",
+        "example": "选项"
+      },
+      "extensionName": {
+        "content": "$2",
+        "example": "扩展名称"
+      }
+    }
+  },
+
+  "pageTitle_options": {
+    "message": "选项",
+    "description": "Title of the page."
+  },
+
+  "pageTitle_contribute": {
+    "message": "贡献",
+    "description": "Title of the page."
+  },
+
+  "actionMenu_options": {
+    "message": "选项",
+    "description": "Title of the menu item."
+  },
+
+  "actionMenu_contribute": {
+    "message": "贡献",
+    "description": "Title of the menu item."
+  },
+
+  "actionMenu_support": {
+    "message": "支持",
+    "description": "Title of the menu item."
+  },
+
+  "buttonTooltip_clearSince": {
+    "message": "时间范围",
+    "description": "Tooltip of the button."
+  },
+
+  "buttonTooltip_contribute": {
+    "message": "贡献",
+    "description": "Tooltip of the button."
+  },
+
+  "buttonTooltip_options": {
+    "message": "选项",
+    "description": "Tooltip of the button."
+  },
+
+  "buttonTooltip_menu": {
+    "message": "菜单",
+    "description": "Tooltip of the button."
+  },
+
+  "buttonTooltip_pin": {
+    "message": "固定",
+    "description": "Tooltip of the button."
+  },
+
+  "buttonTooltip_unpin": {
+    "message": "取消固定",
+    "description": "Tooltip of the button."
+  },
+
+  "info_dataTypeCleared": {
+    "message": "所选的浏览数据已成功清除。",
+    "description": "Info message."
+  },
+
+  "error_allDataTypesDisabled": {
+    "message": "所有数据类型均已禁用。请访问选项页面并至少启用一种数据类型。",
+    "description": "Error message."
+  },
+
+  "error_dataTypeNotCleared": {
+    "message": "出错了。所选的浏览数据未被清除。",
+    "description": "Error message."
+  },
+
+  "error_optionsNotApplied": {
+    "message": "重启浏览器以使更改生效。",
+    "description": "Error message."
+  },
+
+  "error_internalError": {
+    "message": "出错了。打开浏览器控制台以查看详细信息。",
+    "description": "Error message."
+  }
+}
